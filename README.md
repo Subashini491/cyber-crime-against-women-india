@@ -9,6 +9,11 @@
 This project analyses cyber crimes against women across 28 Indian states using NCRB data. The goal is to uncover patterns, identify high-risk states, and demonstrate that raw crime numbers alone can be deeply misleading in policy analysis.
 
 ---
+The Power BI dashboard file ([Cyber Crime.pbix](./Cyber%20Crime.pbix)) is included in this repository and can be opened using Microsoft Power BI Desktop.
+
+To explore the dashboard interactively, download the PBIX file and open it using Power BI Desktop.
+
+---
 
 ## 🎯 Objective
 
@@ -71,6 +76,18 @@ This project analyses cyber crimes against women across 28 Indian states using N
 
 ### Page 4 — Key Findings
 ![Page 4 - Key Findings](page4-key-findings.png.png)
+
+---
+
+## 💡 Skills Demonstrated
+
+- Data Cleaning
+- Data Transformation
+- Data Visualization
+- Dashboard Design
+- Power Query
+- DAX
+- Data Storytelling
 
 ---
 

@@ -81,4 +81,4 @@ Research & Data Analyst | Social Impact | Gender Safety
 📧 sakthiashini24@gmail.com
 🔗 [LinkedIn](https://linkedin.com/in/s-subashini)
 
-*Independent research project — 2025*
+*Independent research project — 2026*

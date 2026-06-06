@@ -61,16 +61,16 @@ This project analyses cyber crimes against women across 28 Indian states using N
 ## 🖥️ Dashboard Screenshots
 
 ### Page 1 — Overview
-![Page 1 - Overview](page1-overview.png)
+![Page 1 - Overview](page1-overview.png.png)
 
 ### Page 2 — Population-Adjusted Analysis
-![Page 2 - Population Adjusted](page2-population-adjusted.png)
+![Page 2 - Population Adjusted](page2-population-adjusted..png.png)
 
 ### Page 3 — Crime Pattern Analysis
-![Page 3 - Crime Patterns](page3-crime-patterns.png)
+![Page 3 - Crime Patterns](page3-crime-patterns.png.png)
 
 ### Page 4 — Key Findings
-![Page 4 - Key Findings](page4-key-findings.png)
+![Page 4 - Key Findings](page4-key-findings.png.png)
 
 ---
 

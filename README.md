@@ -67,16 +67,16 @@ To explore the dashboard interactively, download the PBIX file and open it using
 ## 🖥️ Dashboard Screenshots
 
 ### Page 1 — Overview
-![Page 1 - Overview](page1-overview.png.png)
+![Page 1 - Overview](page1-overview.png)
 
 ### Page 2 — Population-Adjusted Analysis
-![Page 2 - Population Adjusted](page2-population-adjusted.png.png)
+![Page 2 - Population Adjusted](page2-population-adjusted.png)
 
 ### Page 3 — Crime Pattern Analysis
-![Page 3 - Crime Patterns](page3-crime-patterns.png.png)
+![Page 3 - Crime Patterns](page3-crime-patterns.png)
 
 ### Page 4 — Key Findings
-![Page 4 - Key Findings](page4-key-findings.png.png)
+![Page 4 - Key Findings](page4-key-findings.png)
 
 ---
 

@@ -9,6 +9,8 @@
 
 This project analyses cyber crimes against women across 28 Indian states using NCRB data. The goal is to uncover patterns, identify high-risk states, and demonstrate that raw crime numbers alone can be deeply misleading in policy analysis.
 
+![Cyber Crime Against Women in India](dashboard.png)
+
 ---
 The Power BI dashboard file ([Cyber_Crime_Against_Women_India.pbix](./Cyber_Crime_Against_Women_India.pbix)) is included in this repository and can be opened using Microsoft Power BI Desktop.
 
